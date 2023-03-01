@@ -30,6 +30,9 @@ Mixer to Client:
    * Represented by a variable length of characters surrounded by quotation marks (`"`)
  * Decibels
    * Represented by an integer where the dB value has been multiplied by 100 (`10.00 dB` -> `1000`)
+   * Max Fader Value: 1000
+   * Min Fader Value: -13800
+   * Negative Infinity Value: -32768
  * Booleans
    * Represented by either a `0` or `1`, `0` for false and `1` for true
 
