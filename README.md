@@ -44,3 +44,8 @@ Here's some basic examples:
  * Channel 16 Fader Label:
    * `get MIXER:Current/InCh/Fader/Name 15 0`
    * `set MIXER:Current/InCh/Fader/Name 15 0 "My Label"`
+
+## Credits
+
+ * Yamaha - For making a great mixer, not for properly documenting it's API.
+ * [bitfocus/companion-module-yamaha-rcp](https://github.com/bitfocus/companion-module-yamaha-rcp) - For compiling a list of commands available
