@@ -5,7 +5,7 @@ Unofficial documentation for Yamaha's mixer control protocol with an emphasis on
 ## Basics
 
 Yamaha uses a simple TCP connection to transfer all of the data between the client and the mixer.
-The data is split into messages that are delimited by a newline (`\n`).
+The data is split into messages that are delimited by a newline character (`\n`).
 Each message starts with one of the following command keywords:
 
 Client to Mixer:
