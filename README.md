@@ -2,6 +2,8 @@
 
 Unofficial documentation for Yamaha's mixer control protocol with an emphasis on the [TF Series of mixers](https://usa.yamaha.com/products/proaudio/mixers/tf/index.html).
 
+> **Note:** This is a big work in progress. If you want to help out, feel free to open up a [Discussion](https://github.com/BrenekH/yamaha-rcp-docs/discussions), [Issue](https://github.com/BrenekH/yamaha-rcp-docs/issues), or [Pull Request](https://github.com/BrenekH/yamaha-rcp-docs/pulls).
+
 ## Official Sources
 
  * [Python Script Template](https://usa.yamaha.com/files/download/other_assets/0/1266290/Python_Script_Template_V100.zip) - Simple Python scripts and PDFs that are light on details
