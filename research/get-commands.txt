@@ -1,0 +1,109 @@
+get MIXER:Current/InCh/Fader/Level {channel} 0
+get MIXER:Current/InCh/Fader/On {channel} 0
+get MIXER:Current/InCh/Label/Color {channel} 0
+get MIXER:Current/InCh/Label/Icon {channel} 0
+get MIXER:Current/InCh/Label/Category {channel} 0
+get MIXER:Current/InCh/Label/Name {channel} 0
+get MIXER:Current/InCh/Role {channel} 0
+get MIXER:Current/InCh/ToFx/Level {channel} 0
+get MIXER:Current/InCh/ToFx/On {channel} 0
+get MIXER:Current/InCh/ToFx/PrePost {channel} 0
+get MIXER:Current/InCh/ToMix/Level {channel} 0
+get MIXER:Current/InCh/ToMix/On {channel} 0
+get MIXER:Current/InCh/ToMix/Pan
+get MIXER:Current/InCh/ToMix/PrePost
+get MIXER:Current/InCh/ToMono/Level
+get MIXER:Current/InCh/ToMono/On
+get MIXER:Current/InCh/ToSt/Pan
+get MIXER:Current/InCh/ToStereo/Pan
+get MIXER:Current/StInCh/Fader/Level
+get MIXER:Current/StInCh/Fader/On
+get MIXER:Current/StInCh/Label/Color
+get MIXER:Current/StInCh/Label/Icon
+get MIXER:Current/StInCh/Label/Category
+get MIXER:Current/StInCh/Label/Name
+get MIXER:Current/StInCh/ToFx/Level
+get MIXER:Current/StInCh/ToFx/On
+get MIXER:Current/StInCh/ToFx/PrePost
+get MIXER:Current/StInCh/ToMix/Level
+get MIXER:Current/StInCh/ToMix/On
+get MIXER:Current/StInCh/ToMix/Pan
+get MIXER:Current/StInCh/ToMix/PrePost
+get MIXER:Current/StInCh/ToMono/Level
+get MIXER:Current/StInCh/ToMono/On
+get MIXER:Current/StInCh/ToSt/Pan
+get MIXER:Current/StInCh/ToStereo/Pan
+get MIXER:Current/FxRtnCh/Fader/Level
+get MIXER:Current/FxRtnCh/Fader/On
+get MIXER:Current/FxRtnCh/Label/Color
+get MIXER:Current/FxRtnCh/Label/Icon
+get MIXER:Current/FxRtnCh/Label/Name
+get MIXER:Current/FxRtnCh/ToMix/Level
+get MIXER:Current/FxRtnCh/ToMix/On
+get MIXER:Current/FxRtnCh/ToMix/Pan
+get MIXER:Current/FxRtnCh/ToMix/PrePost
+get MIXER:Current/FxRtnCh/ToMono/Level
+get MIXER:Current/FxRtnCh/ToMono/On
+get MIXER:Current/FxRtnCh/ToSt/Pan
+get MIXER:Current/FxRtnCh/ToStereo/Pan
+get MIXER:Current/DCA/Fader/Level
+get MIXER:Current/DcaCh/Fader/Level
+get MIXER:Current/DCA/Fader/On
+get MIXER:Current/DcaCh/Fader/On
+get MIXER:Current/DCA/Label/Color
+get MIXER:Current/DcaCh/Label/Color
+get MIXER:Current/DCA/Label/Icon
+get MIXER:Current/DcaCh/Label/Icon
+get MIXER:Current/DCA/Label/Category
+get MIXER:Current/DcaCh/Label/Category
+get MIXER:Current/DCA/Label/Name
+get MIXER:Current/DcaCh/Label/Name
+get MIXER:Current/Mix/Fader/Level {channel} 0
+get MIXER:Current/Mix/Fader/On {channel} 0
+get MIXER:Current/Mix/Label/Color {channel} 0
+get MIXER:Current/Mix/Label/Icon {channel} 0
+get MIXER:Current/Mix/Label/Category {channel} 0
+get MIXER:Current/Mix/Label/Name {channel} 0
+get MIXER:Current/Mix/ToMtrx/Level
+get MIXER:Current/Mix/ToMtrx/On
+get MIXER:Current/Mix/Out/Balance
+get MIXER:Current/Mix/PanLink
+get MIXER:Current/Mix/Role {channel} 0
+get MIXER:Current/Mtrx/Fader/Level
+get MIXER:Current/Mtrx/Fader/On
+get MIXER:Current/Mtrx/Label/Color
+get MIXER:Current/Mtrx/Label/Icon
+get MIXER:Current/Mtrx/Label/Category
+get MIXER:Current/Mtrx/Label/Name
+get MIXER:Current/Mtrx/Role
+get MIXER:Current/St/Fader/Level {channel} 0
+get MIXER:Current/St/Fader/On {channel} 0
+get MIXER:Current/St/Label/Color {channel} 0
+get MIXER:Current/St/Label/Icon {channel} 0
+get MIXER:Current/St/Label/Category {channel} 0
+get MIXER:Current/St/Label/Name {channel} 0
+get MIXER:Current/St/ToMtrx/Level
+get MIXER:Current/St/ToMtrx/On
+get MIXER:Current/St/Out/Balance
+get MIXER:Current/Mono/Fader/Level {channel} 0
+get MIXER:Current/Mono/Fader/On {channel} 0
+get MIXER:Current/Mono/Label/Color {channel} 0
+get MIXER:Current/Mono/Label/Icon {channel} 0
+get MIXER:Current/Mono/Label/Category {channel} 0
+get MIXER:Current/Mono/Label/Name {channel} 0
+get MIXER:Current/Mono/ToMtrx/Level
+get MIXER:Current/Mono/ToMtrx/On
+get MIXER:Setup/MonitorMix/Password
+get MIXER:Current/MuteMaster/On
+get MIXER:Current/Mix/BusType
+get MIXER:Current/InCh/PanMode
+get MIXER:Current/StInCh/PanMode
+get MIXER:Current/FxRtnCh/PanMode
+get MIXER:Current/Mix/PanMode
+get MIXER:Current/St/PanMode
+get MIXER:Current/StInCh/Role
+get MIXER:Current/FxRtnCh/Role
+get MIXER:Current/St/Role
+get MIXER:Current/FxRtnCh/Label/Category
+get MIXER:Current/MuteMaster/Label/Name
+get scene_
