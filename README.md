@@ -4,7 +4,7 @@ Unofficial documentation for Yamaha's mixer control protocol with an emphasis on
 
 ## Official Sources
 
- * [Python Script Template](https://usa.yamaha.com/files/download/other_assets/0/1266290/Python_Script_Template_V100.zip)
+ * [Python Script Template](https://usa.yamaha.com/files/download/other_assets/0/1266290/Python_Script_Template_V100.zip) - Simple Python scripts and PDFs that are light on details
 
 ## Basics
 
