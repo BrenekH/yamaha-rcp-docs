@@ -22,6 +22,15 @@ Mixer to Client:
  * `NOTIFY` - Unsolicited message from the mixer indicating a change was made outside of the current connection
  * `ERROR` - Indicates an error with the client's request
 
+### Data Types
+
+ * Strings
+   * Represented by a variable length of characters surrounded by quotation marks (`"`)
+ * Decibels
+   * Represented by an integer where the dB value has been multiplied by 100 (`10.00 dB` -> `1000`)
+ * Booleans
+   * Represented by either a `0` or `1`, `0` for false and `1` for true
+
 ### Getting and Setting Values
 
 Getting and setting simple values uses essentially the same syntax.
