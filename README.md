@@ -24,4 +24,14 @@ Mixer to Client:
 
 ### Getting and Setting Values
 
-<!-- TODO: Write about how get and set use a similar syntax -->
+Getting and setting simple values uses essentially the same syntax.
+The only difference is really that a `get` command doesn't contain a value on the end while `set` does.
+
+Here's some basic examples:
+ * Channel 1 Fader Values:
+   * `get MIXER:Current/InCh/Fader/Level 1 0`
+   * `set MIXER:Current/InCh/Fader/Level 1 0 1000`
+
+ * Channel 16 Fader Label:
+   * `get MIXER:Current/InCh/Fader/Name 15 0`
+   * `set MIXER:Current/InCh/Fader/Name 15 0 "My Label"`
