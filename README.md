@@ -20,7 +20,7 @@ Client to Mixer:
 
 Mixer to Client:
  * `OK` - Indicates that the client's request was accepted
- * `OKm` - The difference between this keyword and `OK` is theorized as an indicator of a modified value, but that hasn't been confirmed yet
+ * `OKm` - The difference between this keyword and `OK` is likely to be an indication of a modified value, but this has not yet been confirmed
  * `NOTIFY` - Unsolicited message from the mixer indicating a change was made outside of the current connection
  * `ERROR` - Indicates an error with the client's request
 
@@ -29,7 +29,7 @@ Mixer to Client:
  * Strings
    * Represented by a variable length of characters surrounded by quotation marks (`"`)
  * Decibels
-   * Represented by an integer where the dB value has been multiplied by 100 (`10.00 dB` -> `1000`)
+   * Represented by an integer where the dB value has been multiplied by 100 (`10 dB` -> `1000`)
    * Max Fader Value: 1000
    * Min Fader Value: -13800
    * Negative Infinity Value: -32768
@@ -52,5 +52,5 @@ Here's some basic examples:
 
 ## Credits
 
- * Yamaha - For making a great mixer, not for properly documenting it's API.
+ * Yamaha - For making a great mixer. Not for properly documenting it's API.
  * [bitfocus/companion-module-yamaha-rcp](https://github.com/bitfocus/companion-module-yamaha-rcp) - For compiling a list of commands available
