@@ -17,6 +17,7 @@ Each message starts with one of the following command keywords:
 Client to Mixer:
  * `get` - Request a value from the mixer
  * `set` - Set a value on the mixer
+ * `ssrecall_ex` - Recall a scene to the mixer
 
 Mixer to Client:
  * `OK` - Indicates that the client's request was accepted
