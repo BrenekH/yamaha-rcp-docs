@@ -56,221 +56,223 @@ Here's some basic examples:
 
 ### List of Command Paths
 
-[MIXER:Current/InCh/Fader/Level](commands/current_inch_fader_level.md)
+* [MIXER:Current/InCh/Fader/Level](commands/current_inch_fader_level.md)
 
-[MIXER:Current/InCh/Fader/On](commands/current_inch_fader_on.md)
+* [MIXER:Current/InCh/Fader/On](commands/current_inch_fader_on.md)
 
-[MIXER:Current/InCh/Label/Color](commands/current_inch_label_color.md)
+* [MIXER:Current/InCh/Label/Color](commands/current_inch_label_color.md)
 
-[MIXER:Current/InCh/Label/Icon](commands/current_inch_label_icon.md)
+* [MIXER:Current/InCh/Label/Icon](commands/current_inch_label_icon.md)
 
-[MIXER:Current/InCh/Label/Category](commands/current_inch_label_category.md)
+* [MIXER:Current/InCh/Label/Category](commands/current_inch_label_category.md)
 
-[MIXER:Current/InCh/Label/Name](commands/current_inch_label_name.md)
+* [MIXER:Current/InCh/Label/Name](commands/current_inch_label_name.md)
 
-[MIXER:Current/InCh/Role](commands/current_inch_role.md)
+* [MIXER:Current/InCh/Role](commands/current_inch_role.md)
 
-[MIXER:Current/InCh/ToFx/Level](commands/current_inch_tofx_level.md)
+* [MIXER:Current/InCh/ToFx/Level](commands/current_inch_tofx_level.md)
 
-[MIXER:Current/InCh/ToFx/On](commands/current_inch_tofx_on.md)
+* [MIXER:Current/InCh/ToFx/On](commands/current_inch_tofx_on.md)
 
-[MIXER:Current/InCh/ToFx/PrePost](commands/current_inch_tofx_prepost.md)
+* [MIXER:Current/InCh/ToFx/PrePost](commands/current_inch_tofx_prepost.md)
 
-[MIXER:Current/InCh/ToMix/Level](commands/current_inch_tomix_level.md)
+* [MIXER:Current/InCh/ToMix/Level](commands/current_inch_tomix_level.md)
 
-[MIXER:Current/InCh/ToMix/On](commands/current_inch_tomix_on.md)
+* [MIXER:Current/InCh/ToMix/On](commands/current_inch_tomix_on.md)
 
-[MIXER:Current/InCh/ToMix/Pan](commands/current_inch_tomix_pan.md)
+* [MIXER:Current/InCh/ToMix/Pan](commands/current_inch_tomix_pan.md)
 
-[MIXER:Current/InCh/ToMix/PrePost](commands/current_inch_tomix_prepost.md)
+* [MIXER:Current/InCh/ToMix/PrePost](commands/current_inch_tomix_prepost.md)
 
-[MIXER:Current/InCh/ToMono/Level](commands/current_inch_tomono_level.md)
+* [MIXER:Current/InCh/ToMono/Level](commands/current_inch_tomono_level.md)
 
-[MIXER:Current/InCh/ToMono/On](commands/current_inch_tomono_on.md)
+* [MIXER:Current/InCh/ToMono/On](commands/current_inch_tomono_on.md)
 
-[MIXER:Current/InCh/ToSt/Pan](commands/current_inch_tost_pan.md)
+* [MIXER:Current/InCh/ToSt/Pan](commands/current_inch_tost_pan.md)
 
-[MIXER:Current/InCh/ToStereo/Pan](commands/current_inch_tostereo_pan.md)
+* [MIXER:Current/InCh/ToStereo/Pan](commands/current_inch_tostereo_pan.md)
 
-[MIXER:Current/StInCh/Fader/Level](commands/current_stinch_fader_level.md)
+* [MIXER:Current/StInCh/Fader/Level](commands/current_stinch_fader_level.md)
 
-[MIXER:Current/StInCh/Fader/On](commands/current_stinch_fader_on.md)
+* [MIXER:Current/StInCh/Fader/On](commands/current_stinch_fader_on.md)
 
-[MIXER:Current/StInCh/Label/Color](commands/current_stinch_fader_color.md)
+* [MIXER:Current/StInCh/Label/Color](commands/current_stinch_fader_color.md)
 
-[MIXER:Current/StInCh/Label/Icon](commands/current_stinch_label_icon.md)
+* [MIXER:Current/StInCh/Label/Icon](commands/current_stinch_label_icon.md)
 
-[MIXER:Current/StInCh/Label/Category](commands/current_stinch_label_category.md)
+* [MIXER:Current/StInCh/Label/Category](commands/current_stinch_label_category.md)
 
-[MIXER:Current/StInCh/Label/Name](commands/current_stinch_label_name.md)
+* [MIXER:Current/StInCh/Label/Name](commands/current_stinch_label_name.md)
 
-[MIXER:Current/StInCh/ToFx/Level](commands/current_stinch_tofx_level.md)
+* [MIXER:Current/StInCh/ToFx/Level](commands/current_stinch_tofx_level.md)
 
-[MIXER:Current/StInCh/ToFx/On](commands/current_stinch_tofx_on.md)
+* [MIXER:Current/StInCh/ToFx/On](commands/current_stinch_tofx_on.md)
 
-[MIXER:Current/StInCh/ToFx/PrePost](commands/current_stinch_tofx_prepost.md)
+* [MIXER:Current/StInCh/ToFx/PrePost](commands/current_stinch_tofx_prepost.md)
 
-[MIXER:Current/StInCh/ToMix/Level](commands/current_stinch_tomix_level.md)
+* [MIXER:Current/StInCh/ToMix/Level](commands/current_stinch_tomix_level.md)
 
-[MIXER:Current/StInCh/ToMix/On](commands/current_stinch_tomix_on.md)
+* [MIXER:Current/StInCh/ToMix/On](commands/current_stinch_tomix_on.md)
 
-[MIXER:Current/StInCh/ToMix/Pan](commands/current_stinch_tomix_pan.md)
+* [MIXER:Current/StInCh/ToMix/Pan](commands/current_stinch_tomix_pan.md)
 
-[MIXER:Current/StInCh/ToMix/PrePost](commands/current_stinch_tomix_prepost.md)
+* [MIXER:Current/StInCh/ToMix/PrePost](commands/current_stinch_tomix_prepost.md)
 
-[MIXER:Current/StInCh/ToMono/Level](commands/current_stinch_tomono_level.md)
+* [MIXER:Current/StInCh/ToMono/Level](commands/current_stinch_tomono_level.md)
 
-[MIXER:Current/StInCh/ToMono/On](commands/current_stinch_tomono_on.md)
+* [MIXER:Current/StInCh/ToMono/On](commands/current_stinch_tomono_on.md)
 
-[MIXER:Current/StInCh/ToSt/Pan](commands/current_stinch_tost_pan.md)
+* [MIXER:Current/StInCh/ToSt/Pan](commands/current_stinch_tost_pan.md)
 
-[MIXER:Current/StInCh/ToStereo/Pan](commands/current_stinch_tostereo_pan.md)
+* [MIXER:Current/StInCh/ToStereo/Pan](commands/current_stinch_tostereo_pan.md)
 
-[MIXER:Current/FxRtnCh/Fader/Level](commands/current_fxrtnch_fader_level.md)
+* [MIXER:Current/FxRtnCh/Fader/Level](commands/current_fxrtnch_fader_level.md)
 
-[MIXER:Current/FxRtnCh/Fader/On](commands/current_fxrtnch_fader_on.md)
+* [MIXER:Current/FxRtnCh/Fader/On](commands/current_fxrtnch_fader_on.md)
 
-[MIXER:Current/FxRtnCh/Label/Color](commands/current_fxrtnch_label_color.md)
+* [MIXER:Current/FxRtnCh/Label/Color](commands/current_fxrtnch_label_color.md)
 
-[MIXER:Current/FxRtnCh/Label/Icon](commands/current_fxrtnch_label_icon.md)
+* [MIXER:Current/FxRtnCh/Label/Icon](commands/current_fxrtnch_label_icon.md)
 
-[MIXER:Current/FxRtnCh/Label/Name](commands/current_fxrtnch_label_name.md)
+* [MIXER:Current/FxRtnCh/Label/Name](commands/current_fxrtnch_label_name.md)
 
-[MIXER:Current/FxRtnCh/ToMix/Level](commands/current_fxrtnch_tomix_level.md)
+* [MIXER:Current/FxRtnCh/ToMix/Level](commands/current_fxrtnch_tomix_level.md)
 
-[MIXER:Current/FxRtnCh/ToMix/On](commands/current_fxrtnch_tomix_on.md)
+* [MIXER:Current/FxRtnCh/ToMix/On](commands/current_fxrtnch_tomix_on.md)
 
-[MIXER:Current/FxRtnCh/ToMix/Pan](commands/current_fxrtnch_tomix_pan.md)
+* [MIXER:Current/FxRtnCh/ToMix/Pan](commands/current_fxrtnch_tomix_pan.md)
 
-[MIXER:Current/FxRtnCh/ToMix/PrePost](commands/current_fxrtnch_tomix_prepost.md)
+* [MIXER:Current/FxRtnCh/ToMix/PrePost](commands/current_fxrtnch_tomix_prepost.md)
 
-[MIXER:Current/FxRtnCh/ToMono/Level](commands/current_fxrtnch_tomono_level.md)
+* [MIXER:Current/FxRtnCh/ToMono/Level](commands/current_fxrtnch_tomono_level.md)
 
-[MIXER:Current/FxRtnCh/ToMono/On](commands/current_fxrtnch_tomono_on.md)
+* [MIXER:Current/FxRtnCh/ToMono/On](commands/current_fxrtnch_tomono_on.md)
 
-[MIXER:Current/FxRtnCh/ToSt/Pan](commands/current_fxrtnch_tost_pan.md)
+* [MIXER:Current/FxRtnCh/ToSt/Pan](commands/current_fxrtnch_tost_pan.md)
 
-[MIXER:Current/FxRtnCh/ToStereo/Pan](commands/current_fxrtnch_tostereo_pan.md)
+* [MIXER:Current/FxRtnCh/ToStereo/Pan](commands/current_fxrtnch_tostereo_pan.md)
 
-[MIXER:Current/DCA/Fader/Level](commands/current_dca_fader_level.md)
+* [MIXER:Current/DCA/Fader/Level](commands/current_dca_fader_level.md)
 
-[MIXER:Current/DcaCh/Fader/Level](commands/current_dcach_fader_level.md)
+* [MIXER:Current/DcaCh/Fader/Level](commands/current_dcach_fader_level.md)
 
-[MIXER:Current/DCA/Fader/On](commands/current_dca_fader_on.md)
+* [MIXER:Current/DCA/Fader/On](commands/current_dca_fader_on.md)
 
-[MIXER:Current/DcaCh/Fader/On](commands/current_dcach_fader_on.md)
+* [MIXER:Current/DcaCh/Fader/On](commands/current_dcach_fader_on.md)
 
-[MIXER:Current/DCA/Label/Color](commands/current_dca_label_color.md)
+* [MIXER:Current/DCA/Label/Color](commands/current_dca_label_color.md)
 
-[MIXER:Current/DcaCh/Label/Color](commands/current_dcach_label_color.md)
+* [MIXER:Current/DcaCh/Label/Color](commands/current_dcach_label_color.md)
 
-[MIXER:Current/DCA/Label/Icon](commands/current_dca_label_icon.md)
+* [MIXER:Current/DCA/Label/Icon](commands/current_dca_label_icon.md)
 
-[MIXER:Current/DcaCh/Label/Icon](commands/current_dcach_label_icon.md)
+* [MIXER:Current/DcaCh/Label/Icon](commands/current_dcach_label_icon.md)
 
-[MIXER:Current/DCA/Label/Category](commands/current_dca_label_category.md)
+* [MIXER:Current/DCA/Label/Category](commands/current_dca_label_category.md)
 
-[MIXER:Current/DcaCh/Label/Category](commands/current_dcach_label_category.md)
+* [MIXER:Current/DcaCh/Label/Category](commands/current_dcach_label_category.md)
 
-[MIXER:Current/DCA/Label/Name](commands/current_dca_label_name.md)
+* [MIXER:Current/DCA/Label/Name](commands/current_dca_label_name.md)
 
-[MIXER:Current/DcaCh/Label/Name](commands/current_dcach_label_name.md)
+* [MIXER:Current/DcaCh/Label/Name](commands/current_dcach_label_name.md)
 
-[MIXER:Current/Mix/Fader/Level](commands/current_mix_fader_level.md)
+* [MIXER:Current/Mix/Fader/Level](commands/current_mix_fader_level.md)
 
-[MIXER:Current/Mix/Fader/On](commands/current_mix_fader_on.md)
+* [MIXER:Current/Mix/Fader/On](commands/current_mix_fader_on.md)
 
-[MIXER:Current/Mix/Label/Color](commands/current_mix_label_color.md)
+* [MIXER:Current/Mix/Label/Color](commands/current_mix_label_color.md)
 
-[MIXER:Current/Mix/Label/Icon](commands/current_mix_label_icon.md)
+* [MIXER:Current/Mix/Label/Icon](commands/current_mix_label_icon.md)
 
-[MIXER:Current/Mix/Label/Category](commands/current_mix_label_category.md)
+* [MIXER:Current/Mix/Label/Category](commands/current_mix_label_category.md)
 
-[MIXER:Current/Mix/Label/Name](commands/current_mix_label_name.md)
+* [MIXER:Current/Mix/Label/Name](commands/current_mix_label_name.md)
 
-[MIXER:Current/Mix/ToMtrx/Level](commands/current_mix_tomtrx_level.md)
+* [MIXER:Current/Mix/ToMtrx/Level](commands/current_mix_tomtrx_level.md)
 
-[MIXER:Current/Mix/ToMtrx/On](commands/current_mix_tomtrx_on.md)
+* [MIXER:Current/Mix/ToMtrx/On](commands/current_mix_tomtrx_on.md)
 
-[MIXER:Current/Mix/Out/Balance](commands/current_mix_out_balance.md)
+* [MIXER:Current/Mix/Out/Balance](commands/current_mix_out_balance.md)
 
-[MIXER:Current/Mix/PanLink](commands/current_mix_panlink.md)
+* [MIXER:Current/Mix/PanLink](commands/current_mix_panlink.md)
 
-[MIXER:Current/Mix/Role](commands/current_mix_role.md)
+* [MIXER:Current/Mix/Role](commands/current_mix_role.md)
 
-[MIXER:Current/Mtrx/Fader/Level](commands/current_mtrx_fader_level.md)
+* [MIXER:Current/Mtrx/Fader/Level](commands/current_mtrx_fader_level.md)
 
-[MIXER:Current/Mtrx/Fader/On](commands/current_mtrx_fader_on.md)
+* [MIXER:Current/Mtrx/Fader/On](commands/current_mtrx_fader_on.md)
 
-[MIXER:Current/Mtrx/Label/Color](commands/current_mtrx_label_color.md)
+* [MIXER:Current/Mtrx/Label/Color](commands/current_mtrx_label_color.md)
 
-[MIXER:Current/Mtrx/Label/Icon](commands/current_mtrx_label_icon.md)
+* [MIXER:Current/Mtrx/Label/Icon](commands/current_mtrx_label_icon.md)
 
-[MIXER:Current/Mtrx/Label/Category](commands/current_mtrx_label_category.md)
+* [MIXER:Current/Mtrx/Label/Category](commands/current_mtrx_label_category.md)
 
-[MIXER:Current/Mtrx/Label/Name](commands/current_mtrx_label_name.md)
+* [MIXER:Current/Mtrx/Label/Name](commands/current_mtrx_label_name.md)
 
-[MIXER:Current/Mtrx/Role](commands/current_mtrx_role.md)
+* [MIXER:Current/Mtrx/Role](commands/current_mtrx_role.md)
 
-[MIXER:Current/St/Fader/Level](commands/current_st_fader_level.md)
+* [MIXER:Current/St/Fader/Level](commands/current_st_fader_level.md)
 
-[MIXER:Current/St/Fader/On](commands/current_st_fader_on.md)
+* [MIXER:Current/St/Fader/On](commands/current_st_fader_on.md)
 
-[MIXER:Current/St/Label/Color](commands/current_st_label_color.md)
+* [MIXER:Current/St/Label/Color](commands/current_st_label_color.md)
 
-[MIXER:Current/St/Label/Icon](commands/current_st_label_icon.md)
+* [MIXER:Current/St/Label/Icon](commands/current_st_label_icon.md)
 
-[MIXER:Current/St/Label/Category](commands/current_st_label_category.md)
+* [MIXER:Current/St/Label/Category](commands/current_st_label_category.md)
 
-[MIXER:Current/St/Label/Name](commands/current_st_label_name.md)
+* [MIXER:Current/St/Label/Name](commands/current_st_label_name.md)
 
-[MIXER:Current/St/ToMtrx/Level](commands/current_st_tomtrx_level.md)
+* [MIXER:Current/St/ToMtrx/Level](commands/current_st_tomtrx_level.md)
 
-[MIXER:Current/St/ToMtrx/On](commands/current_st_tomtrx_on.md)
+* [MIXER:Current/St/ToMtrx/On](commands/current_st_tomtrx_on.md)
 
-[MIXER:Current/St/Out/Balance](commands/current_st_out_balance.md)
+* [MIXER:Current/St/Out/Balance](commands/current_st_out_balance.md)
 
-[MIXER:Current/Mono/Fader/Level](commands/current_mono_fader_level.md)
+* [MIXER:Current/Mono/Fader/Level](commands/current_mono_fader_level.md)
 
-[MIXER:Current/Mono/Fader/On](commands/current_mono_fader_on.md)
+* [MIXER:Current/Mono/Fader/On](commands/current_mono_fader_on.md)
 
-[MIXER:Current/Mono/Label/Color](commands/current_mono_label_color.md)
+* [MIXER:Current/Mono/Label/Color](commands/current_mono_label_color.md)
 
-[MIXER:Current/Mono/Label/Icon](commands/current_mono_label_icon.md)
+* [MIXER:Current/Mono/Label/Icon](commands/current_mono_label_icon.md)
 
-[MIXER:Current/Mono/Label/Category](commands/current_mono_label_category.md)
+* [MIXER:Current/Mono/Label/Category](commands/current_mono_label_category.md)
 
-[MIXER:Current/Mono/Label/Name](commands/current_mono_label_name.md)
+* [MIXER:Current/Mono/Label/Name](commands/current_mono_label_name.md)
 
-[MIXER:Current/Mono/ToMtrx/Level](commands/current_mono_tomtrx_level.md)
+* [MIXER:Current/Mono/ToMtrx/Level](commands/current_mono_tomtrx_level.md)
 
-[MIXER:Current/Mono/ToMtrx/On](commands/current_mono_tomtrx_on.md)
+* [MIXER:Current/Mono/ToMtrx/On](commands/current_mono_tomtrx_on.md)
 
-[MIXER:Setup/MonitorMix/Password](commands/setup_monitormix_password.md)
+* [MIXER:Setup/MonitorMix/Password](commands/setup_monitormix_password.md)
 
-[MIXER:Current/MuteMaster/On](commands/current_mutemaster_on.md)
+* [MIXER:Current/MuteMaster/On](commands/current_mutemaster_on.md)
 
-[MIXER:Current/Mix/BusType](commands/current_mix_bustype.md)
+* [MIXER:Current/Mix/BusType](commands/current_mix_bustype.md)
 
-[MIXER:Current/InCh/PanMode](commands/current_inch_panmode.md)
+* [MIXER:Current/InCh/PanMode](commands/current_inch_panmode.md)
 
-[MIXER:Current/StInCh/PanMode](commands/current_stinch_panmode.md)
+* [MIXER:Current/StInCh/PanMode](commands/current_stinch_panmode.md)
 
-[MIXER:Current/FxRtnCh/PanMode](commands/current_fxrtnch_panmode.md)
+* [MIXER:Current/FxRtnCh/PanMode](commands/current_fxrtnch_panmode.md)
 
-[MIXER:Current/Mix/PanMode](commands/current_mix_panmode.md)
+* [MIXER:Current/Mix/PanMode](commands/current_mix_panmode.md)
 
-[MIXER:Current/St/PanMode](commands/current_st_panmode.md)
+* [MIXER:Current/St/PanMode](commands/current_st_panmode.md)
 
-[MIXER:Current/StInCh/Role](commands/current_stinch_role.md)
+* [MIXER:Current/StInCh/Role](commands/current_stinch_role.md)
 
-[MIXER:Current/FxRtnCh/Role](commands/current_fxrtnch_role.md)
+* [MIXER:Current/FxRtnCh/Role](commands/current_fxrtnch_role.md)
 
-[MIXER:Current/St/Role](commands/current_st_role.md)
+* [MIXER:Current/St/Role](commands/current_st_role.md)
 
-[MIXER:Current/FxRtnCh/Label/Category](commands/current_fxrtnch_label_category.md)
+* [MIXER:Current/FxRtnCh/Label/Category](commands/current_fxrtnch_label_category.md)
 
-[MIXER:Current/MuteMaster/Label/Name](commands/current_mutemaster_label_name.md)
+* [MIXER:Current/MuteMaster/Label/Name](commands/current_mutemaster_label_name.md)
+
+* [ssrecall_ex](commands/ssrecall_ex.md)
 
 ## Credits
 
