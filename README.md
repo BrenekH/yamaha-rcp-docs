@@ -43,8 +43,8 @@ The only difference is really that a `get` command doesn't contain a value on th
 
 Here's some basic examples:
  * Channel 1 Fader Values:
-   * `get MIXER:Current/InCh/Fader/Level 1 0`
-   * `set MIXER:Current/InCh/Fader/Level 1 0 1000`
+   * `get MIXER:Current/InCh/Fader/Level 0 0`
+   * `set MIXER:Current/InCh/Fader/Level 0 0 1000`
 
  * Channel 16 Fader Label:
    * `get MIXER:Current/InCh/Fader/Name 15 0`
