@@ -1,6 +1,7 @@
 # Yamaha Remote Control Protocol (RCP)
 
 Unofficial documentation for Yamaha's mixer control protocol with an emphasis on the [TF Series of mixers](https://usa.yamaha.com/products/proaudio/mixers/tf/index.html).
+The concepts in this documentation do apply to some of Yamaha's other mixers (notably the QL, CL, Rivage, and DM3 series), but since I only have access to a TF console, that's what this documentation is most relevant to.
 
 > **Note:** This is a big work in progress. If you want to help out, feel free to open up a [Discussion](https://github.com/BrenekH/yamaha-rcp-docs/discussions), [Issue](https://github.com/BrenekH/yamaha-rcp-docs/issues), or [Pull Request](https://github.com/BrenekH/yamaha-rcp-docs/pulls).
 
