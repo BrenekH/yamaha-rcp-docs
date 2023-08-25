@@ -8,6 +8,7 @@ The concepts in this documentation do apply to some of Yamaha's other mixers (no
 ## Official Sources
 
 * [Python Script Template](https://usa.yamaha.com/files/download/other_assets/0/1266290/Python_Script_Template_V100.zip) - Simple Python scripts and PDFs that are light on details
+* [MTX3, MTX5-D, MRX7-D, XMV Series, EXi8, EXo8 RCP Spec V4.0.0](https://usa.yamaha.com/files/download/other_assets/5/1343735/200330_mtx_mrx_xmv_ex_rcps_v400_rev14_en.pdf) - Yamaha docs on the protocol for their multi-zone commercial mixing system (thanks [@morydd](https://github.com/BrenekH/yamaha-rcp-docs/discussions/1))
 
 ## Basics
 
