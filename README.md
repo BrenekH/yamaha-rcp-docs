@@ -9,7 +9,8 @@ The concepts in this documentation do apply to some of Yamaha's other mixers (no
 
 * [Python Script Template](https://usa.yamaha.com/files/download/other_assets/0/1266290/Python_Script_Template_V100.zip) - Simple Python scripts and PDFs that are light on details
 * [MTX3, MTX5-D, MRX7-D, XMV Series, EXi8, EXo8 RCP Spec V4.0.0](https://usa.yamaha.com/files/download/other_assets/5/1343735/200330_mtx_mrx_xmv_ex_rcps_v400_rev14_en.pdf) - Yamaha docs on the protocol for their multi-zone commercial mixing system (thanks [@morydd](https://github.com/BrenekH/yamaha-rcp-docs/discussions/1))
-* [DM3 UDP OSC Documentation](https://fr.yamaha.com/files/download/other_assets/2/2063222/DM3_osc_specs_v100_en.pdf) - Documentation for using Open Sound Control (OSC) on DM3 (thanks [@hansSchall](https://github.com/BrenekH/yamaha-rcp-docs/discussions/3))
+* [RIVAGE PM Series OSC Specifications V1.0.2](https://uk.yamaha.com/files/download/other_assets/5/1407565/RIVAGE_PM_osc_specs_v102_en.pdf) - Documentation for using Open Sound Control (OSC) on Rivage PM consoles (thanks [@snurrgnu](https://github.com/BrenekH/yamaha-rcp-docs/discussions/1#discussioncomment-8644878))
+* [DM3 Series OSC Specifications V1.0.0](https://fr.yamaha.com/files/download/other_assets/2/2063222/DM3_osc_specs_v100_en.pdf) - Documentation for using Open Sound Control (OSC) on DM3 consoles (thanks [@hansSchall](https://github.com/BrenekH/yamaha-rcp-docs/discussions/3))
 
 ## Basics
 
